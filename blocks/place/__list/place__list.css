@@ -1,0 +1,25 @@
+.place__list {
+    max-width: 984px;
+    margin: 0px auto;
+    padding-top: 20px;
+}
+
+@media (max-width: 1097px) {
+    .place__list {
+        margin: 0px 48px;       
+    }
+}
+
+@media (max-width: 896px) {
+    .place__list {
+        padding-top: 11px;
+        margin: 0px 24px;       
+    }
+}
+
+@media (max-width: 685px) {
+    .place__list {
+        padding-top: 24px;
+        margin: 0px;        
+    }
+}

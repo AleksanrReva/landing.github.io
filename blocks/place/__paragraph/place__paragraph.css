@@ -1,0 +1,32 @@
+.place__paragraph {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.13rem;
+    line-height: 1.88rem;
+}
+
+.place__paragraph p {
+    margin-bottom: 2.25rem;
+}
+
+@media (max-width: 896px) {
+    .place__paragraph {
+        font-size: 1rem;
+        line-height: 1.69rem;    
+    }
+}
+
+@media (max-width: 685px) {
+    .place__paragraph {
+        margin: 0px 16px 0px;
+    }
+}
+
+@media (max-width: 375px) {
+    .place__paragraph {
+        font-size: 1.13rem;
+        line-height: 1.88rem; 
+        margin: 0px 16px 0px;
+    }
+}

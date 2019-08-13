@@ -1,0 +1,15 @@
+.intro__text_author {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 0.63rem;
+    line-height: 1rem;
+    margin-left: 1.13rem;
+    max-width: 240px;
+}
+
+@media (max-width: 975px) {
+    .intro__text_author {
+        margin-left: 0rem;
+    }
+}

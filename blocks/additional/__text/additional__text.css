@@ -1,0 +1,16 @@
+.additional__text {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 0.88rem;
+    line-height: 1.25rem;
+
+    width: calc(100% - 36px);
+    margin: 0px auto 30px;
+}
+
+@media (min-width: 896px) and (max-width: 1097px) {
+    .additional__text {
+        width: calc(100% - 32px);
+    }
+}

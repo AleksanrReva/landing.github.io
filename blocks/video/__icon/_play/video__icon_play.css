@@ -1,0 +1,8 @@
+.video__icon_play {
+    width: 41px;
+    height: 41px;
+    position: absolute;
+    left: 5.15%;
+    top: 9.29%;
+    z-index: 8;
+}

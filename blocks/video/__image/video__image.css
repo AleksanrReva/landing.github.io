@@ -1,0 +1,11 @@
+.video__image {
+    width: 100%;
+    opacity: 0.5;
+    transition-property: opacity;
+    transition-duration: 0.25s;
+    transition-timing-function: linear;
+}
+
+.video__item:hover .video__image{
+    opacity: 0.2;
+}

@@ -1,0 +1,14 @@
+@import url('../../blocks/video/__item/video__item.css');
+@import url('../../blocks/video/__container/video__container.css');
+@import url('../../blocks/video/__titers/video__titers.css');
+@import url('../../blocks/video/__subtitle/video__subtitle.css');
+@import url('../../blocks/video/__title/video__title.css');
+@import url('../../blocks/video/__duration/video__duration.css');
+@import url('../../blocks/video/__link/video__link.css');
+@import url('../../blocks/video/__itemBg/video__itemBg.css');
+@import url('../../blocks/video/__icon/_play/video__icon_play.css');
+@import url('../../blocks/video/__image/video__image.css');
+
+.video {
+    position: relative;
+}

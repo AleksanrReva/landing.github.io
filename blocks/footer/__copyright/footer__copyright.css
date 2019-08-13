@@ -1,0 +1,27 @@
+.footer__copyright {
+    font-family: Inter;
+    font-size: 0.88rem;
+    text-align: right;
+    margin-top: 116px;
+}
+
+@media (max-width: 1205px) {
+    .footer__copyright {
+        margin-right: 48px;
+    }
+}
+
+@media (max-width: 960px) {
+    .footer__copyright {
+        margin-top: 108px;
+        margin-right: 24px;
+    }
+}
+
+@media (max-width: 715px) {
+    .footer__copyright {
+        text-align: left;
+        margin: 0px 16px;
+        padding-top: 16px;
+    }
+}

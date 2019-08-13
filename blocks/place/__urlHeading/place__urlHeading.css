@@ -1,0 +1,17 @@
+.place__urlHeading {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 0.75rem;
+    line-height: 1.25rem;
+    letter-spacing: 0.2em;
+    color: #AAAAAA;
+
+    margin-bottom: 1rem;
+}
+
+@media (max-width: 685px) {
+    .place__urlHeading {
+        margin-bottom: 0.5rem;
+    }
+}

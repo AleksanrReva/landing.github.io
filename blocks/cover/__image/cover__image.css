@@ -1,0 +1,26 @@
+.cover__image {
+    width: 100%;
+    opacity: 1;
+    transition-property: opacity;
+    transition-duration: 0.25s;
+    transition-timing-function: linear;
+    bottom: 160px;
+    position: relative;
+    display: block;
+}
+
+.cover:hover .cover__image{
+    opacity: 0.2;
+}
+
+@media (max-width: 1097px) {
+    .cover__image {
+        bottom: 90px;
+    }
+}
+
+@media (max-width: 996px) {
+    .cover__image {
+        bottom: 0px;
+    }
+}

@@ -1,0 +1,14 @@
+.place__url {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.13rem;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}
+
+@media (max-width: 685px) {
+    .place__url {
+        margin-bottom: 1rem;
+    }
+}

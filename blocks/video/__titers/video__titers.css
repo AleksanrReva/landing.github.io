@@ -1,0 +1,7 @@
+.video__titers {
+    position: absolute;
+    z-index: 8;
+    left: 5.15%;
+    bottom: 9.29%;
+    max-width: 322px;
+}

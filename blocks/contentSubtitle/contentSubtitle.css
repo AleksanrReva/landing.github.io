@@ -1,0 +1,29 @@
+.contentSubtitle {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.5rem;
+    line-height: 2.19rem;
+    text-align: center;
+
+    margin: 3rem auto 0rem;
+    max-width: 640px;
+}
+
+@media (max-width: 896px) {
+    .contentSubtitle {
+        font-size: 1.5rem;
+        line-height: 2.19rem;
+        margin-top: 1.5rem;
+    }
+}
+
+@media (max-width: 685px) {
+    .contentSubtitle {
+        font-size: 1rem;
+        line-height: 1.44rem;
+        margin-top: 1rem;
+        margin-left: 16px;
+        margin-right: 16px;
+    }
+}

@@ -1,0 +1,23 @@
+.barentsburg__map {
+    max-width: 1184px;
+    margin: 48px auto;
+}
+
+.barentsburg__map iframe {
+    max-width: 1184px !important;    
+}
+
+@media (max-width: 896px) {
+    .barentsburg__map iframe {
+       height: 362px !important;    
+    }
+}
+
+@media (max-width: 685px) {
+    .barentsburg__map {
+        margin: 16px auto;
+    }
+    .barentsburg__map iframe {
+        height: 184px !important;    
+     }
+}

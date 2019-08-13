@@ -1,0 +1,17 @@
+.barentsburg__text {
+    display: block;
+    max-width: 380px;
+
+    font-family: Inter;
+    font-size: 1.13rem;
+    line-height: 1.88rem;
+
+}
+
+@media (max-width: 685px) {
+    .barentsburg__text {
+        max-width: 680px;
+        margin-top: 32px;
+        order: 3;
+    }
+}

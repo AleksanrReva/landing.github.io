@@ -1,0 +1,14 @@
+.intro__subtitle {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.5rem;
+    margin-top: 2.81rem;
+}
+
+@media (max-width: 685px) {
+    .intro__title {
+        line-height: 2rem;
+        margin-top: 1.44rem;
+    }
+}

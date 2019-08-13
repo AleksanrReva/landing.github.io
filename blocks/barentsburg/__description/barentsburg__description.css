@@ -1,0 +1,24 @@
+.barentsburg__description {
+    display: flex;
+    margin: 48px auto 0px;
+    max-width: 1184px; 
+}
+
+@media (max-width: 1205px) {
+    .barentsburg__description {
+        margin: 48px 48px 0px;
+    }
+}
+
+@media (max-width: 896px) {
+    .barentsburg__description {
+        margin: 48px 24px 0px;
+    }
+}
+
+@media (max-width: 685px) {
+    .barentsburg__description {
+        margin: 24px 16px 0px;
+        flex-direction: column;
+    }
+}

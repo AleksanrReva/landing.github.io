@@ -1,0 +1,23 @@
+.additional__container {
+    max-width: 1184px;
+    margin: 72px auto 0px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 284px);
+    grid-gap: 16px;
+    justify-content: center;
+}
+
+@media (min-width: 896px) and (max-width: 1097px) {
+    .additional__container {
+        grid-template-columns: repeat(auto-fill, 240px);
+        grid-gap: 10px;
+        margin-left: 17px;
+        margin-right: 17px;
+    }
+}
+
+@media (max-width: 583px) {
+    .additional__container {
+        grid-gap: 24px;
+    }
+}

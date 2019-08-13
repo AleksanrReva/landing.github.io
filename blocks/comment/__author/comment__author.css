@@ -1,0 +1,17 @@
+.comment__author {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 0.88rem;
+    line-height: 1.5rem;
+
+    margin-top: 24px;
+}
+
+@media (max-width: 896px) {
+    .comment__author {
+        order: 2;
+        margin-top: 16px;
+        line-height: 1.38rem;
+    }
+}

@@ -1,0 +1,15 @@
+.additional__item {
+    height: 330px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+@media (min-width: 896px) and (max-width: 1097px) {
+    .additional__item {
+        height: 280px;
+    }
+}

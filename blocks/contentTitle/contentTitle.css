@@ -1,0 +1,28 @@
+.contentTitle {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 4.5rem;
+    line-height: 4.88rem;
+    text-align: center;
+
+    margin: 102px auto 0px;
+    max-width: 800px;
+}
+
+@media (max-width: 896px) {
+    .contentTitle {
+        font-size: 2.63rem;
+        line-height: 2.88rem;
+        margin-left: 24px;
+        margin-right: 24px;
+    }
+}
+
+@media (max-width: 685px) {
+    .contentTitle {
+        font-size: 2rem;
+        line-height: 2.19rem;
+        margin: 64px 16px 0px;
+    }
+}

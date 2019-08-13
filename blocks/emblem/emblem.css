@@ -1,0 +1,10 @@
+@import url('../../blocks/emblem/__city/emblem__city.css');
+@import url('../../blocks/emblem/__image/emblem__image.css');
+@import url('../../blocks/emblem/__item/emblem__item.css');
+@import url('../../blocks/emblem/__title/emblem__title.css');
+@import url('../../blocks/emblem/__list/emblem__list.css');
+
+.emblem {
+    max-width: 1184px;
+    margin: 0px auto;
+}

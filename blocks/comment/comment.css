@@ -1,0 +1,24 @@
+@import url('../../blocks/comment/__quote/comment__quote.css');
+@import url('../../blocks/comment/__author/comment__author.css');
+@import url('../../blocks/comment/__image/comment__image.css');
+
+.comment {
+    max-width: 382px;
+    margin: 0px 19px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 1097px) {
+    .comment {
+        margin: 0px 29px;
+    }
+}
+
+@media (max-width: 896px) {
+    .comment {
+        margin: 0px;
+        max-width: 340px;
+        align-items: center;
+    }
+}

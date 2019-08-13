@@ -1,0 +1,15 @@
+.header__lang_active {
+    font-family: Inter;
+    font-size: 1.5rem;
+    font-weight: 400;
+    text-align: right;
+    text-decoration-line: underline;
+    padding-left: 1.13rem;
+    color: #FFFFFF;
+}
+
+@media (max-width: 320px) {
+    .header__lang_active {
+        font-size: 1.13rem;
+    }
+}

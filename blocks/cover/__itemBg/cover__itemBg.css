@@ -1,0 +1,31 @@
+.cover__itemBg {
+    max-height: 594px;
+    position: relative;
+    overflow: hidden;
+    background-color: #000000;
+    display: block;
+}
+
+@media (max-width: 1024px) {
+    .cover__itemBg {
+        max-height: 591px;
+    }
+}
+
+@media (max-width: 768px) {
+    .cover__itemBg {
+        max-height: 500px;
+    }
+}
+
+@media (max-width: 375px) {
+    .cover__itemBg {
+        max-height: 272px;
+    }
+}
+
+@media (max-width: 320px) {
+    .cover__itemBg {
+        max-height: 216px;
+    }
+}

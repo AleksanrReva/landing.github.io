@@ -1,0 +1,15 @@
+.barentsburg__link {
+    font-family: Inter;
+    font-size: 1.13rem;
+    line-height: 1.88rem;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+
+    max-width: 282px;
+}
+
+@media (max-width: 685px) {
+    .barentsburg__link {
+        max-width: 680px;
+    }
+}

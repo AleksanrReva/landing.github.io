@@ -1,0 +1,33 @@
+.barentsburg__title {
+    font-family: Inter;
+    font-weight: 900;
+    font-size: 2.63rem;
+
+    max-width: 1184px;
+    margin: 85px auto 0px;
+}
+
+@media (max-width: 1205px) {
+    .barentsburg__title {
+        margin: 85px 48px 0px;
+    }
+}
+
+@media (max-width: 896px) {
+    .barentsburg__title {
+        margin: 85px 24px 0px;
+    }
+}
+
+@media (max-width: 685px) {
+    .barentsburg__title {
+        font-size: 1.5rem;
+        margin: 85px 16px 0px;
+    }
+}
+
+@media (max-width: 345px) {
+    .barentsburg__title {
+        margin: 64px 16px 0px;
+    }
+}

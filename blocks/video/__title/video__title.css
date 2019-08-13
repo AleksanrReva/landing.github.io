@@ -1,0 +1,15 @@
+.video__title {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 2.25rem;
+    line-height: 2.44rem;
+    margin-top: 0.335em;
+}
+
+@media (max-width: 896px) {
+    .video__title {
+        font-size: 1.5rem;
+        line-height: 1.63rem;
+    }
+}

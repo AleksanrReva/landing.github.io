@@ -1,0 +1,25 @@
+.barentsburg__website {
+    display: flex;
+    flex-direction: column;
+    align-self: end;
+    padding-top: 9px;
+    margin-left: 120px;
+}
+
+@media (max-width: 1097px) {
+    .barentsburg__website {
+        margin-left: 90px;
+    }
+}
+
+@media (max-width: 896px) {
+    .barentsburg__website {
+        margin-left: 45px;
+    }
+}
+
+@media (max-width: 685px) {
+    .barentsburg__website {
+        margin-left: 0px;
+    }
+}
