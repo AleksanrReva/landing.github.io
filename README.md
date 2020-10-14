@@ -1,4 +1,4 @@
-# landing.github.io
+# http://landing.github.io
 
 ## v0.0.1
 
