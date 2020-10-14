@@ -1,4 +1,4 @@
-# http://landing.revuxorn.ru/
+# landing.github.io
 
 ## v0.0.1
 
