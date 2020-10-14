@@ -1,4 +1,4 @@
-# http://landing.github.io
+# https://aleksanrreva.github.io/landing.github.io
 
 ## v0.0.1
 
