@@ -1,4 +1,4 @@
-# https://aleksanrreva.github.io/landing.github.io
+# http://landing.revuxorn.ru/
 
 ## v0.0.1
 
