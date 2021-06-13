@@ -1,4 +1,4 @@
-# http://landing.revuxorn.ru/
+# https://laughing-fermat-3b79a6.netlify.app/
 
 ## v0.0.1
 
